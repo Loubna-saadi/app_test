@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "373785302124",
-    "project_id": "apptest-8bb40",
-    "storage_bucket": "apptest-8bb40.appspot.com"
+    "project_number": "190970169396",
+    "project_id": "apptest-57e9f",
+    "storage_bucket": "apptest-57e9f.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:373785302124:android:8507cff7c8a2233cf4f449",
+        "mobilesdk_app_id": "1:190970169396:android:9bb313adfefb578fd2a261",
         "android_client_info": {
           "package_name": "com.saadi.jobfaster_application"
         }
       },
       "oauth_client": [
         {
-          "client_id": "373785302124-8j6th1dm20pou4kbtn7plqvrorm95d4l.apps.googleusercontent.com",
+          "client_id": "190970169396-nem7vs30qf5c9h3anqchsokedo2ob3it.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDeeXDu1CnDP5vlV3OUqxdRORR4I2IRcp0"
+          "current_key": "AIzaSyBHunkiOmtvS6znpcq-Xpg_yb3zPtVef78"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "373785302124-8j6th1dm20pou4kbtn7plqvrorm95d4l.apps.googleusercontent.com",
+              "client_id": "190970169396-nem7vs30qf5c9h3anqchsokedo2ob3it.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
